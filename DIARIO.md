@@ -3,7 +3,7 @@ Tras haber hecho un fork de la rama de trabajo y haberlo descargado, he configur
 
 Un fork es una copia completa de un repositorio en otro dentro de GitHub y manteniendo una conexión con el repositorio original.
 
-Se denomina upstream al repositorio remoto original del se se sacó la copia.
+Se denomina upstream al repositorio remoto original del que se sacó la copia.
 
 
 ![Captura de consola](capturas/Captura1.png)
