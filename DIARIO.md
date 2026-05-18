@@ -22,3 +22,12 @@ Un **conflicto** en git es cuando dos ramas distintas que parten de la misma bas
 Se ha hecho un Pull Request de la rama feature/opcion-5 hacia **dev** revisando los cambios introducidos.
 ![Captura del diff del PR](capturas/Tarea4c.png)
 
+# Tarea 5
+Se ha realizado un fetch de la rama **dev** sobre la rama feature/opcion-6 intentando realizar un merge de la última sobre **dev**. Al dar un fallo hubo que resolver los conflictos manualmente.
+Los indicadores **<<<<<<<**, **=======** y **>>>>>>>** permiten identificar las secciones que provocan el conflico en ambas ramas.
+Los datos de la rama entrante (a realizar el merge) que provocan el conflicto con la rama del repositorio están delimitados entre los marcadores: **<<<<<<<**, **=======**.
+Los datos de la rama del repositorio (hacia donde se va a realizar el merge) que provocan el conflicto con la rama local están delimitados entre los marcadores: **=======** y **>>>>>>>**.
+Para solucionarlo, se aceptaron los **cambios de la rama entrante** en la descripción de la opción 3 y **ambos** para las opciones 5 y 6 (ya que estaban cada una en una rama distinta).
+![Captura del PR de feature/opcion-6 mostrando el error](capturas/Tarea5a.png)
+![Captura marcadores de conflicto en VSCode](capturas/Tarea5b2.png)
+![Captura de la aplicación funcionando](capturas/Tarea5c.png)
