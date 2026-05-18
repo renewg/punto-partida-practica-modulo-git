@@ -31,3 +31,9 @@ Para solucionarlo, se aceptaron los **cambios de la rama entrante** en la descri
 ![Captura del PR de feature/opcion-6 mostrando el error](capturas/Tarea5a.png)
 ![Captura marcadores de conflicto en VSCode](capturas/Tarea5b2.png)
 ![Captura de la aplicación funcionando](capturas/Tarea5c.png)
+
+# Tarea 6
+Se han borrado las ramas feature/opcion-5 y feature/opcion-6 del repositorio y de local.
+Se muestra la rama **dev** actualizada.
+![Captura de rama dev actualizada](capturas/Tarea6a.png)
+La resolución de conflictos sigue siendo un poco complicada, aunque se aprecia claramente su gran valor.
